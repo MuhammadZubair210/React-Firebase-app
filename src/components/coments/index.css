@@ -1,0 +1,18 @@
+.dot{
+    border: solid green;
+    border-radius: 17px;
+    margin: 2% 6%;
+    background: white;
+}
+.pp{
+	    margin: 1% 4%;
+	    background: white;
+}
+.btn-block{
+    transition-duration: 0.99s;
+    width: 93%;
+    margin: 3% 3%;
+    background-color: transparent;
+    background-color: green;    
+    color: green;
+}
